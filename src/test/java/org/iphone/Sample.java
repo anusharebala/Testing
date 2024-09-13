@@ -20,5 +20,18 @@ public class Sample {
 	public void api() {
 		System.out.println("api");
 	}
+	
+	public void cucumber1() {
+		System.out.println("cucumber");
+	}
+	public void sql() {
+		System.out.println("sql");
+	}
+	public void company() {
+		System.out.println("company");
+	}
+	
+
+
 
 }
